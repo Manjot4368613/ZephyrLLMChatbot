@@ -1,4 +1,4 @@
-# ZephyrLLMChatbot
+# ManjotLLMChatbot
 A guideline to build no-cost LLM chatbot 
 
 This README provides a structured and detailed guide to help users through the process of creating and deploying a customized LLM chatbot using Hugging Face Spaces and Gradio, highlighting key steps and customization options, complete with useful links for easy navigation.
